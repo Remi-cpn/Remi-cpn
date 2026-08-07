@@ -21,7 +21,7 @@ Passionné par le C, le bas niveau et la simulation physique, je vise le dévelo
 | Projet | Langage | Ce que ça démontre |
 |---|---|---|
 | **[MiniRT — Raytracer avec moteur phisique](https://github.com/Remi-cpn/miniRT)** | C | Rendu d'images par lancer de rayons, optimisation, Moteur physique N-corps orienté simulations astronomiques |
-| **[Philosophers](https://github.com/Remi-cpn/philosophers)** | C | Concurrence, sémaphores, gestion de ressources et de timing — bonus en multi-processus |
+| **[IRC](https://github.com/Minipl0p/IRC/tree/dev)** | C | Systeme de chat respectant la norme IRC |
 | **[Minishell](https://github.com/Remi-cpn/minishell)** | C | Interpréteur de commandes : parsing, processus, signaux, redirections |
 
 <!-- Optionnel : insérer ici un rendu du RT -->
