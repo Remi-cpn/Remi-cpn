@@ -24,8 +24,9 @@ Passionné par le C, le bas niveau et la simulation physique, je vise le dévelo
 | **[IRC](https://github.com/Minipl0p/IRC/tree/dev)** | C | Systeme de chat respectant la norme IRC |
 | **[Minishell](https://github.com/Remi-cpn/minishell)** | C | Interpréteur de commandes : parsing, processus, signaux, redirections |
 
-<!-- Optionnel : insérer ici un rendu du RT -->
-<!-- <p align="center"><img src="assets/rt_solar_system.png" width="600" alt="Rendu RT — système solaire" /></p> -->
+<p align="center">
+  <img src="assets/minirt1.png" />
+</p>
 
 ---
 
