@@ -1,25 +1,24 @@
 
-<h1 align="center">Salut, moi c'est Rémi 👋</h3>
+<h1 align="center">Salut, moi c'est Rémi 👋</h1>
 
-**Étudiant à l'École 42 Angoulême — spécialisation systèmes embarqués.**
+**Étudiant à l'École 42 Angoulême — spécialisation systèmes embarqués et simulation.**
 Passionné par le C, le bas niveau et la simulation physique, je vise le développement logiciel embarqué, idéalement dans le secteur spatial.
 
-🎯 **À la recherche d'une alternance ou d'un stage en développement embarqué** (dès janvier 2027).
+🎯 **À la recherche d'une alternance ou d'un stage en développement embarqué ou en simulation** (dès janvier 2027).
 
 ---
 
-## 🧭 À propos
+<h2 align="center">🧭 À propos</h2>
 
 - 🎓 Cursus École 42 : projets en C et C++ dans des conditions proches du réel — contraintes strictes, pas de bibliothèques toutes faites, revue par les pairs.
-- 🛰️ Attiré par le logiciel de vol et la simulation : je développe actuellement un moteur de gravité pour des simulations astronomiques.
-- 🔧 Parcours atypique avant le code : opérateur d'équipage de char dans l'armée, puis bureau d'études dans le bâtiment — rigueur, travail en équipe et sens du terrain.
-- ⚡ Je monte actuellement un club d'électronique à 42 Angoulême, pour comprendre aussi le matériel sur lequel tourne le code.
+- 🛰️ Attiré par l'embarqué et la simulation : je développe en collaboration un moteur de gravité pour des simulations astronomiques.
+- 🔧 Parcours atypique avant le code : militaire, puis chef de chantier dans le TP — rigueur, travail en équipe et sens du terrain.
 
 ---
 
-## 🚀 Projets phares
+<h2 align="center">🚀 Projets phares</h2>
 
-| Projet | Language | Ce que ça démontre |
+| Projet | Langage | Ce que ça démontre |
 |---|---|---|
 | **[MiniRT — Raytracer avec moteur phisique](https://github.com/Remi-cpn/miniRT)** | C | Rendu d'images par lancer de rayons, optimisation, Moteur physique N-corps orienté simulations astronomiques |
 | **[Philosophers](https://github.com/Remi-cpn/philosophers)** | C | Concurrence, sémaphores, gestion de ressources et de timing — bonus en multi-processus |
@@ -30,7 +29,7 @@ Passionné par le C, le bas niveau et la simulation physique, je vise le dévelo
 
 ---
 
-## 🛠️ Compétences
+<h2 align="center">🛠️ Compétences</h2>
 
 ### Maîtrisées
 
@@ -48,32 +47,5 @@ Passionné par le C, le bas niveau et la simulation physique, je vise le dévelo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB%20%2F%20Valgrind-333333?style=for-the-badge)
-<!-- Éditeur à ajouter : Neovim, VS Code, autre ? -->
-<!-- Neovim : ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) -->
-<!-- VS Code : ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
-
-**Cœur de métier**
-- **C** — mon langage de prédilection : gestion mémoire, structures de données, programmation système
-- **C++ (98)** — POO, templates, STL, exceptions (modules 42, serveur IRC)
-- **Unix / Linux** — processus, threads, signaux, sockets, sémaphores
-
-**Outils & environnement**
-- Git, Makefile, GDB / Valgrind
-- Docker (infrastructure conteneurisée Nginx / MariaDB / WordPress)
-- Administration Linux au quotidien
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn : [ton-lien-linkedin]
-- ✉️ Mail : [ton-mail]
-- 📄 CV disponible sur demande <!-- ou lien direct si tu l'héberges -->
-
-<!-- Optionnel : stats GitHub en thème sombre, à ajouter si tu veux
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Remi-cpn&show_icons=true&theme=dark&title_color=14b8a6&icon_color=14b8a6" alt="Stats GitHub" />
-</p>
--->
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
