@@ -8,7 +8,7 @@ Passionné par le C, le bas niveau et la simulation physique, je vise le dévelo
 
 ---
 
-<h2 align="center">🧭 À propos</h2>
+<h2 align="center">🧑‍🚀 À propos</h2>
 
 - 🎓 Cursus École 42 : projets en C et C++ dans des conditions proches du réel — contraintes strictes, pas de bibliothèques toutes faites, revue par les pairs.
 - 🛰️ Attiré par l'embarqué et la simulation : je développe en collaboration un moteur de gravité pour des simulations astronomiques.
