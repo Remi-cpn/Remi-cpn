@@ -4,7 +4,7 @@
 **Étudiant à l'École 42 Angoulême, spécialisation systèmes embarqués et simulation.**
 Passionné par le C, le bas niveau et la simulation physique, je vise le développement logiciel embarqué, idéalement dans le secteur spatial.
 
-🎯 **À la recherche d'une alternance ou d'un stage en développement embarqué ou en simulation** (dès janvier 2027).
+🎯 **À la recherche d'une alternance ou d'un stage en développement embarqué ou en simulation**.
 
 ---
 
